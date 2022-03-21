@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notmy-realname200
 - 👀 I’m interested in bots
-- 🌱 I’m currently learning QNASIC
+- 🌱 I’m currently learning QBASIC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord
 
